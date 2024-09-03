@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects in oil and gas industry , and food industry
 - 📫 How to reach me : alancohen7@gmail.com
 - 😄 Pronouns: Lord, Darth
-- ⚡ Fun fact: Stoic, Autistic
+- ⚡ Fun fact: Stoic
 
 <!---
 alchemistcohen/alchemistcohen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
