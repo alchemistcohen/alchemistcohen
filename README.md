@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alchemistcohen a chemical engineer and Data Scientist 
 - 👀 I’m interested in Data Analisys , Data science and Android apps development
 - 🌱 I’m currently learning AI , Machine Learning 
-- 💞️ I’m looking to collaborate on projects in oil and gas industry , and food industry
+- 🌱I’m looking to collaborate on projects in oil and gas industry , and food industry
 - 📫 How to reach me : alancohen7@gmail.com
 - 😄 Pronouns: Lord, Darth
 - ⚡ Fun fact: Stoic
