@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alan Cohen a chemical engineer and Data Scientist / AI Enthusiast
+- 👋 Hi, I’m Alan Cohen a Chemical Engineer and Data Scientist / AI Enthusiast
 - I’m interested in Data Analysis , Data science and Android apps development
 - I’m currently learning AI , Machine Learning 
 - I’m looking to collaborate on projects in oil and gas industry ,food industry and Artificial Intelligence
